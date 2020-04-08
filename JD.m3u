@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="" group-title="NEWS",COVID-19
+https://www.youtube.com/embed/SLV1B5Lzy48
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="" group-title="NEWS",COVID-19
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1586324812/ei/7BCNXoziD8emkgb55K_4Bg/ip/159.203.195.61/id/SLV1B5Lzy48.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir=yes;itag=140/sgovp/gir=yes;itag=137/hls_chunk_host/r2---sn-n4v7sn7y.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/750/mh/1m/mm/44/mn/sn-n4v7sn7y/ms/lva/mv/m/mvi/1/pl/24/dover/11/keepalive/yes/c/MWEB/cver/2.20200404.06.00/ptk/youtube_single/oid/I96xtrgueKKTuISKVdjk3A/ptchn/DGiCfCZIV5phsoGiPwIcyQ/pltype/contentlive/mt/1586303116/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/AJpPlLswRAIgCg_rvcFAsVCfzZoiNPynaNMuVPNku9sTAzGHippQrFcCIEhAqo8kkX1Bg8XgtYgLnjPrjOvA6-Qy8N-SIU12Z3nJ/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRQIgJe5KDYM2fZIxpWAH7XsZrhUNdH3-xcnMarNvQwgoVTICIQC1r18PQQD1ty_H5kTU9D3mxv08l3b07O3-o896WORvMw==/playlist/index.m3u8?cpn=jWsVSbM_4OwjjDJf
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="" group-title="NEWS",NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="" group-title="NEWS",3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/SQs/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="" group-title="NEWS",TV PERU
+https://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="" group-title="NEWS",BOLIVIA TV 7.2
+http://btvboliviatv.srfms.com:6568/live/livestream/chunklist_w730327036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="" group-title="NEWS",RADIO ADVENTISTA EN LINEA
+https://server2.ejeserver.com:8086/live?1586304001565
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 1" tvg-logo="" group-title="NEWS",RT
+https://rt-esp-gd.secure2.footprint.net/1102_1600Kb.m3u8
