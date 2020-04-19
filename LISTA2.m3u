@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RT NOTICIAS" tvg-logo="" group-title="HOME TV",RT NOTICIAS
+https://rt-esp-gd.secure2.footprint.net/1102_800Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="" group-title="NEWS ",TERROR 24/7
+https://live.televisiongratishd.com/televisiongratishd/91_427.ts
+#EXTINF:-1 tvg-id="" tvg-name="NUEVO TIEMPO" tvg-logo="" group-title="NEWS ",NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b878000_slspa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="" group-title="NEWS ",DBS 24/7
+https://live.televisiongratishd.com/televisiongratishd/94_.m3u8?md5=Yv2KcZIu3Z4JOhIgk-qYNg&expires=1587282592
