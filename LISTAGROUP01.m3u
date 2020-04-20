@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=""group-title="NOTICIAS", RT NOTICIAS
+https://rt-esp-gd.secure2.footprint.net/1102_800Kb.m3u8
+#EXTINF:-1 tvg-logo=""group-title="NOTICIAS", RT NOTICIAS OP 2
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", NACIONAL PE
+https://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", PAT SC
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS", ATB
+https://stmv1.questreaming.com/atb/atb/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGION", NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b878000_slspa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGION", ESPERANZA TV
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGION", 3ABN
+https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGION", RADIO ADVENTISTA EN LINEA
+https://server2.ejeserver.com:8086/live
+#EXTINF:-1 tvg-logo="" group-title="RELIGION", RADIO JOVEN ADVENTISTA
+http://cloudstream2032.conectarhosting.com:9786/;typemp3
+#EXTINF:-1 tvg-logo=""group-title="NOTICIAS", HBO
+http://89.105.194.59:25461/live/1movqq777/1movqq777/24.m3u8
+#EXTINF:-1 tvg-logo=""group-title="NOTICIAS", HBO FAMILY
+http://89.105.194.59:25461/live/1movqq777/1movqq777/23.m3u8
+#EXTINF:-1 tvg-logo=""group-title="PELICULAS", ANNABELLE 3
+https://www13.o0-1.com/token=w_-qMu3k8CwO0azskNE8Qg/1587364059/2800:200::/72/2/60/59b25a442607292057d325715db48602-480p.mp4
+#EXTINF:-1 tvg-logo=""group-title="PELICULAS", ANNABELLE 3 OP 2
+https://s37.upstream.to/o2up3ezuq4ysmvk4xqdsu5vdl6umi664cefrpil5hz2deeeuypeu3ez7n7nq/v.mp4
+#EXTINF:-1 tvg-logo=""group-title="PELICULAS", EL GRINCH
+https://www70.o0-1.com/token=D9pXAoHZvOiidbYxmYv5qg/1587362424/2800:200::/73/5/6d/dc4134a11d83c0756fb2063245a896d5-720p.mp4
+#EXTINF:-1 tvg-logo=""group-title="PELICULAS", EL CHAVO DEL 8 - ACAPULCO
+https://ia800807.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T1 C1
+https://ia600108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%201%20T1.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T1 C2
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%202%20T1.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T1 C3
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%203%20T1%20%281%29.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T1 C4
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%204%20T1.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T1 C5
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%205%20T1.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T1 C6
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%206%20T1.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C1
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%201%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C2
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%202%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C3
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%203%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C4
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%204%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C5
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%205%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C6
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%206%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C7
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%207%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C8
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%208%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C9
+https://ia903103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%209%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C10
+https://ia903103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2010%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C11
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2011%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C12
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2012%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C13
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2013%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="SERIES", DRAKE Y JOSH T2 C14
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2014%20T2.mp4
+#EXTINF:-1 tvg-logo=""group-title="RADIO", TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/.m3u8
+#EXTINF:-1 tvg-logo=""group-title="RADIO", RITMO ROMANTICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?dist=20001
+#EXTINF:-1 tvg-logo=""group-title="RADIO", OXIGENO
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_OXIGENO_SC
+#EXTINF:-1 tvg-logo=""group-title="RADIO", OASIS
+http://14223.live.streamtheworld.com/CRP_OASAAC.aac
+#EXTINF:-1 tvg-logo=""group-title="RADIO", LA INOLVIDABLE
+http://14003.live.streamtheworld.com/CRP_LI_SC?dist=20003
+#EXTINF:-1 tvg-logo=""group-title="RADIO", RADIO CORAZON
+http://18103.live.streamtheworld.com/RADIO_CORAZON_SC
+#EXTINF:-1 tvg-logo=""group-title="RADIO", RADIO FELICIDAD
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_FELICIDAD_SC
+#EXTINF:-1 tvg-logo=""group-title="RADIO", RADIO PLANETA
+http://19013.live.streamtheworld.com/CRP_PLA_SC
+#EXTINF:-1 tvg-logo=""group-title="RADIO", RADIO AMOR
+http://167.114.118.120:7450/;
+#EXTINF:-1 tvg-logo=""group-title="RADIO", RADIO ARUMARKA
+http://173.82.227.173:8013/live
+#EXTINF:-1 tvg-logo=""group-title="RADIO", RADIO MODA
+http://19483.live.streamtheworld.com/CRP_MOD_SC?dist=20003
+#EXTINF:-1 tvg-logo=""group-title="RADIO", RADIO NUEVA Q
+http://19253.live.streamtheworld.com/CRP_NQ_SC?dist=20003
+#EXTINF:-1 tvg-logo=""group-title="RADIO", FORO RADIO
+https://scraper2.onlineradiobox.com/pe.foro?l=1587353880
