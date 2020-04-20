@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="RT NOTICIAS" tvg-logo="" group-title="HOME TV",RT NOTICIAS
+https://rt-esp-gd.secure2.footprint.net/1102_800Kb.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RT OP 2" tvg-logo="" group-title="HOME TV",RT OP 2
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TERROR" tvg-logo="" group-title="NEWS ",TERROR 24/7
+https://live.televisiongratishd.com/televisiongratishd/91_.m3u8?md5=Il6Q7PBD3keGIAaqLqkGAw&expires=1587284481
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="" group-title="NEWS ",DBS 24/7
+https://live.televisiongratishd.com/televisiongratishd/94_.m3u8?md5=Yv2KcZIu3Z4JOhIgk-qYNg&expires=1587282592
+#EXTINF:-1 tvg-id="" tvg-name="NUEVO TIEMPO" tvg-logo="" group-title="NEWS ",NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b878000_slspa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPERANZA TV" tvg-logo="" group-title="NEWS ",ESPERANZA TV
+https://bcliveunivsecure-lh.akamaihd.net/i/Esperanza_1@571273/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3ABN" tvg-logo="" group-title="NEWS ",3ABN
+https://uni10rtmp.tulix.tv/bettervida/bettervida.stream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="NEWS ",HBO
+http://89.105.194.59:25461/live/1movqq777/1movqq777/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="NEWS ",HBO FAMILY
+http://89.105.194.59:25461/live/1movqq777/1movqq777/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NACIONAL PE" tvg-logo="" group-title="NEWS ",NACIONAL PE
+https://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOP LATINO" tvg-logo="" group-title="NEWS ",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/latino/latino.stream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RITMO ROMANTICA" tvg-logo="" group-title="NEWS ",RITMO ROMANTICA
+https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_RIT_SC?dist=20001
+#EXTINF:-1 tvg-id="" tvg-name="PAT SC" tvg-logo="" group-title="NEWS ",PAT SC
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATB" tvg-logo="" group-title="NEWS ",ATB
+https://stmv1.questreaming.com/atb/atb/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NASA" tvg-logo="" group-title="NEWS ",NASA
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK JAPAN" tvg-logo="" group-title="NEWS ",NHK JAPAN
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T1 C1" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T1 C1
+https://ia600108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%201%20T1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T1 C2" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T1 C2
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%202%20T1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T1 C3" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T1 C3
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%203%20T1%20%281%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T1 C4" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T1 C4
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%204%20T1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T1 C5" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T1 C5
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%205%20T1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T1 C6" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T1 C6
+https://ia800108.us.archive.org/22/items/DRAKEYJOSHT1/CAPITULO%206%20T1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C1" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C1
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%201%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C2" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C2
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%202%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C3" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C3
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%203%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C4" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C4
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%204%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C5" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C5
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%205%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C6" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C6
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%206%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C7" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C7
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%207%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C8" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C8
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%208%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C9" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C9
+https://ia903103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%209%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C10" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C10
+https://ia903103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2010%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C11" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C11
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2011%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C12" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C12
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2012%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C13" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C13
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2013%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAKE Y JOSH T2 C14" tvg-logo="" group-title="SERIES",DRAKE Y JOSH T2 C14
+https://ia803103.us.archive.org/16/items/DRAKEYJOSHT2/DRAKE%20Y%20JOSH%20CAPITULO%2014%20T2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANNABELLE 3" tvg-logo="" group-title="PELICULAS",ANNABELLE 3
+https://v3.1ep.co/m3u8/index_MTky.m3u8?hash=260a64ec721a1abb430a71b430a2fbcc
+#EXTINF:-1 tvg-id="" tvg-name="ANNABELLE 3 OP 3" tvg-logo="" group-title="PELICULAS",ANNABELLE 3 OP 2
+https://fantasy.hlssrv.com/hls_serve/8ufWLo32x29DH-kUd4EHyw/1587360700/OkGlV5rJ4UUMW7n11MV1/pl2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHAVO DEL 8 - ACAPULCO" tvg-logo="" group-title="PELICULAS",CHAVO DEL 8 - ACAPULCO
+https://ia800807.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SANTA CLAUSULA" tvg-logo="" group-title="PELICULAS",SANTA CLAUSULA
+https://drive.google.com/uc?id=1V5TAEF9WL86C8e8MKWy83Uk-xWATPHSu&export=download
+#EXTINF:-1 tvg-id="" tvg-name="SANTA CLAUSULA 2" tvg-logo="" group-title="PELICULAS",SANTA CLAUSULA 2
+https://drive.google.com/uc?id=1IfTl08sGGKjT_DYEsV3v1HZLihP72xjk&export=download
+#EXTINF:-1 tvg-id="" tvg-name="SANTA CLAUSULA 3" tvg-logo="" group-title="PELICULAS",SANTA CLAUSULA 3
+https://drive.google.com/uc?id=1GpyejZnNu4_jhv3mwWVowGCNqG_owijo&export=download
+#EXTINF:-1 tvg-id="" tvg-name="ANT-MAN AND THE WASP" tvg-logo="" group-title="PELICULAS",ANT-MAN AND THE WASP
+https://drive.google.com/uc?id=1dnmUS_DYlRtm1n__JaWC37NAK7jNziDq&export=download
+#EXTINF:-1 tvg-id="" tvg-name="EL GRINCH" tvg-logo="" group-title="PELICULAS",EL GRINCH
+https://www70.o0-1.com/token=D9pXAoHZvOiidbYxmYv5qg/1587362424/2800:200::/73/5/6d/dc4134a11d83c0756fb2063245a896d5-720p.mp4
